@@ -1,4 +1,13 @@
-
+/**
+ * @file Seat_heatingApp
+ * @author Yerra Sri Harsha Vardhan
+ * @brief 
+ * @version 0.1
+ * @date 2021-11-29
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 
 #define F_CPU 16000000UL
 #include "Act1.h"
