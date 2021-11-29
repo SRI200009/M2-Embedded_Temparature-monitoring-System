@@ -5,3 +5,5 @@ In this, the controller aims at control the temperature in the car. When the But
 [![CI](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/actions/workflows/compile.yml/badge.svg)](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/actions/workflows/compile.yml)
 
 [![Cppcheck-actions](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/actions/workflows/cppcheck.yml)
+
+[![Cppcheck-actions](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/actions/workflows/cppcheck.yml)
