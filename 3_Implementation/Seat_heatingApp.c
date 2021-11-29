@@ -1,6 +1,6 @@
 /**
  * @file Seat_heatingApp
- * @author Yerra Sri Harsha Vardhan
+ * @author Yerra Sri Harsha Vardhan (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-11-29
