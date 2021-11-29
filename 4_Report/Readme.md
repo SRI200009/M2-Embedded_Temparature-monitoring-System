@@ -71,5 +71,13 @@ It can be modified by changing the Temperature.
 
 ![Flow Chart (1)](https://user-images.githubusercontent.com/70369948/143670773-a55fd8a0-f7a7-45a6-8609-2ed61b463506.jpg)
 
+# Folder Structure
+
+|Folder | Description |
+|-------|------------ |
+| inc   | Header files|
+| src   | Source files|
+
+
 
 
