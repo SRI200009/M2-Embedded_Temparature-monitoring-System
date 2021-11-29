@@ -2,7 +2,7 @@
 #define _ACT3_H_
 /**
  * @file act3.h
- * @author Tejaswi devina (you@domain.com)
+ * @author Yerra Sri Harsha Vardhan (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-11-29
