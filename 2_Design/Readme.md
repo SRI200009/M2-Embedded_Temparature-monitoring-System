@@ -12,4 +12,9 @@
 
 ![2](https://user-images.githubusercontent.com/70369948/143998357-ea014217-ddb3-4958-9e8f-fafb0a278b0a.JPG)
 
+Bill of Materils
+
+[Temp.monitersystem-bom.txt](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/files/7624658/Temp.monitersystem-bom.txt)
+
+
 
