@@ -14,7 +14,8 @@
 
 Bill of Materils
 
-[Temp.monitersystem-bom.txt](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/files/7624658/Temp.monitersystem-bom.txt)
+[testboard-bom.txt](https://github.com/SRI200009/M2-Embedded_Temparature-monitoring-System/files/7639077/testboard-bom.txt)
+
 
 
 
